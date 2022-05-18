@@ -6,7 +6,5 @@
 
 - 🔭 I'm currently working on management system for travel agencies
 - 🌱 I'm currently learning on eslint & prettier to automatically lint my codes
-- 🤔 I'm looking for help with cryptocurrencies' strategies
 - 💬 Ask me about Laravel & Vue.js
 - 📫 How to reach me: @habibalkhabbaz
-- 😄 Pronouns: He / Him
